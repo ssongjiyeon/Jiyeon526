@@ -3,6 +3,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyeon526&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiyeon526&repo=Happy_House&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Jiyeon526/Jiyeon526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
