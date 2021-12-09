@@ -1,4 +1,5 @@
-### 송지연(Song-Jiyeon) | Backend Developer 👋
+### 송지연(Song-Jiyeon) | Backend Developer
+##### My [Portfolio](https://lumbar-pewter-86f.notion.site/Backend-Developer-9a713217c50940eb834c2092605bf619)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiyeon526&count_bg=%23ECCBEF&title_bg=%23C2D2F2&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyeon526&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
